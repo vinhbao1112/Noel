@@ -59,6 +59,10 @@ body{
     .pineTree{
         display: none
     }
+     .text2 h2{
+        width: 300px;
+        font-size: 22px;
+    }
 }
 .bgr-container{
     position: relative;
